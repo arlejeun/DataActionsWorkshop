@@ -16,4 +16,4 @@ weight: 1
 3. How to parse a JSON Response 
 4. How to create an OAuth Client and install the integration
 5. How to construct a data action
-6. How to troubleshoot failed requests.
+6. How to troubleshoot failed requests
